@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="scalactic_2.13-3.2.17">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/scalactic_2.13-3.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/scala-xml_2.13-2.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/scalatest_2.13-3.2.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
